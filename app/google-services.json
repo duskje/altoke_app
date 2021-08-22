@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594225606210",
+    "project_id": "app-de-comida-126bc",
+    "storage_bucket": "app-de-comida-126bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594225606210:android:281ccb1b38cbd0126647db",
+        "android_client_info": {
+          "package_name": "com.altoke.altoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594225606210-8vpe1qcvdf8l3ftnia93cv14bde6jloh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGG9yTuC6BQK2nLR9ioiri833j526gCwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594225606210-8vpe1qcvdf8l3ftnia93cv14bde6jloh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
